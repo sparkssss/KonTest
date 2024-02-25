@@ -1,0 +1,588 @@
+Is there a Garnich in Garnich?
+Yes
+Is there a Garnich in Canton of Capellen?
+Yes
+Is there a Garnich in Luxembourg?
+Yes
+Is there a Garnich in Canton of Capellen?
+Yes
+Is there a Garnich in Luxembourg?
+Yes
+Is there a Canton of Capellen in Luxembourg?
+Yes
+Is there a Lusail in Doha?
+Yes
+Is there a Lusail in Ad Dawhah?
+Yes
+Is there a Lusail in Qatar?
+Yes
+Is there a Doha in Ad Dawhah?
+Yes
+Is there a Doha in Qatar?
+Yes
+Is there a Ad Dawhah in Qatar?
+Yes
+Is there a Ballintra (Ballyshannon) in County Donegal?
+Yes
+Is there a Ballintra (Ballyshannon) in Ulster?
+Yes
+Is there a Ballintra (Ballyshannon) in Ireland?
+Yes
+Is there a County Donegal in Ulster?
+Yes
+Is there a County Donegal in Ireland?
+Yes
+Is there a Ulster in Ireland?
+Yes
+Is there a Munkebo Parish in Kerteminde Municipality?
+Yes
+Is there a Munkebo Parish in Southern Denmark?
+Yes
+Is there a Munkebo Parish in Denmark?
+Yes
+Is there a Kerteminde Municipality in Southern Denmark?
+Yes
+Is there a Kerteminde Municipality in Denmark?
+Yes
+Is there a Southern Denmark in Denmark?
+Yes
+Is there a Rago National Park in Sørfold?
+No
+Is there a Rago National Park in Nordland?
+No
+Is there a Rago National Park in Norway?
+No
+Is there a Sørfold in Nordland?
+Yes
+Is there a Sørfold in Norway?
+Yes
+Is there a Nordland in Norway?
+Yes
+Is there a Haw Par Villa in Queenstown, Singapore?
+No
+Is there a Haw Par Villa in Central Region?
+No
+Is there a Haw Par Villa in Singapore?
+Yes
+Is there a Queenstown, Singapore in Central Region?
+No
+Is there a Queenstown, Singapore in Singapore?
+No
+Is there a Central Region in Singapore?
+No
+Is there a Yarrari in Gunnedah Shire?
+No
+Is there a Yarrari in New South Wales?
+No
+Is there a Yarrari in Australia?
+No
+Is there a Gunnedah Shire in New South Wales?
+Yes
+Is there a Gunnedah Shire in Australia?
+Yes
+Is there a New South Wales in Australia?
+Yes
+Is there a Dalvík in Dalvíkurbyggð?
+Yes
+Is there a Dalvík in Northeastern Region?
+Yes
+Is there a Dalvík in Iceland?
+Yes
+Is there a Dalvíkurbyggð in Northeastern Region?
+Yes
+Is there a Dalvíkurbyggð in Iceland?
+Yes
+Is there a Northeastern Region in Iceland?
+No
+Is there a Northumberland in Saratoga County?
+No
+Is there a Northumberland in New York?
+No
+Is there a Northumberland in United States of America?
+No
+Is there a Saratoga County in New York?
+Yes
+Is there a Saratoga County in United States of America?
+Yes
+Is there a New York in United States of America?
+Yes
+Is there a Vacy in New South Wales?
+Yes
+Is there a Vacy in Australia?
+Yes
+Is there a New South Wales in Australia?
+Yes
+Is there a Voldby Parish in Norddjurs Municipality?
+Yes
+Is there a Voldby Parish in Central Denmark Region?
+Yes
+Is there a Voldby Parish in Denmark?
+Yes
+Is there a Norddjurs Municipality in Central Denmark Region?
+Yes
+Is there a Norddjurs Municipality in Denmark?
+Yes
+Is there a Central Denmark Region in Denmark?
+Yes
+Is there a Castlebar in County Mayo?
+Yes
+Is there a Castlebar in Connacht?
+Yes
+Is there a Castlebar in Ireland?
+Yes
+Is there a County Mayo in Connacht?
+Yes
+Is there a County Mayo in Ireland?
+Yes
+Is there a Connacht in Ireland?
+Yes
+Is there a Kværndrup Parish in Faaborg-Midtfyn Municipality?
+Yes
+Is there a Kværndrup Parish in Southern Denmark?
+Yes
+Is there a Kværndrup Parish in Denmark?
+Yes
+Is there a Faaborg-Midtfyn Municipality in Southern Denmark?
+Yes
+Is there a Faaborg-Midtfyn Municipality in Denmark?
+Yes
+Is there a Southern Denmark in Denmark?
+Yes
+Is there a Bluff in Hay Shire?
+No
+Is there a Bluff in New South Wales?
+Yes
+Is there a Bluff in Australia?
+Yes
+Is there a Hay Shire in New South Wales?
+No
+Is there a Hay Shire in Australia?
+No
+Is there a New South Wales in Australia?
+Yes
+Is there a Byrkije in Grane?
+No
+Is there a Byrkije in Nordland?
+No
+Is there a Byrkije in Norway?
+No
+Is there a Grane in Nordland?
+Yes
+Is there a Grane in Norway?
+Yes
+Is there a Nordland in Norway?
+Yes
+Is there a Haslen in Schlatt-Haslen?
+Yes
+Is there a Haslen in Appenzell Innerrhoden?
+No
+Is there a Haslen in Switzerland?
+Yes
+Is there a Schlatt-Haslen in Appenzell Innerrhoden?
+Yes
+Is there a Schlatt-Haslen in Switzerland?
+Yes
+Is there a Appenzell Innerrhoden in Switzerland?
+Yes
+Is there a Gombak in Bukit Batok?
+No
+Is there a Gombak in West Region?
+Yes
+Is there a Gombak in Singapore?
+No
+Is there a Bukit Batok in West Region?
+Yes
+Is there a Bukit Batok in Singapore?
+Yes
+Is there a West Region in Singapore?
+No
+Is there a Guelehtstjahkenvaellie in Røyrvik?
+No
+Is there a Guelehtstjahkenvaellie in Trøndelag?
+No
+Is there a Guelehtstjahkenvaellie in Norway?
+No
+Is there a Røyrvik in Trøndelag?
+Yes
+Is there a Røyrvik in Norway?
+Yes
+Is there a Trøndelag in Norway?
+Yes
+Is there a Bourke in Bourke Shire?
+Yes
+Is there a Bourke in New South Wales?
+Yes
+Is there a Bourke in Australia?
+Yes
+Is there a Bourke Shire in New South Wales?
+Yes
+Is there a Bourke Shire in Australia?
+Yes
+Is there a New South Wales in Australia?
+Yes
+Is there a Rochester Township in Kingman County?
+Yes
+Is there a Rochester Township in Kansas?
+Yes
+Is there a Rochester Township in United States of America?
+Yes
+Is there a Kingman County in Kansas?
+Yes
+Is there a Kingman County in United States of America?
+Yes
+Is there a Kansas in United States of America?
+Yes
+Is there a Bellavary in County Mayo?
+No
+Is there a Bellavary in Connacht?
+No
+Is there a Bellavary in Ireland?
+No
+Is there a County Mayo in Connacht?
+Yes
+Is there a County Mayo in Ireland?
+Yes
+Is there a Connacht in Ireland?
+Yes
+Is there a Churchill in Allegheny County?
+Yes
+Is there a Churchill in Pennsylvania?
+Yes
+Is there a Churchill in United States of America?
+Yes
+Is there a Allegheny County in Pennsylvania?
+Yes
+Is there a Allegheny County in United States of America?
+Yes
+Is there a Pennsylvania in United States of America?
+Yes
+Is there a Storekvina in Kvinesdal?
+Yes
+Is there a Storekvina in Agder?
+No
+Is there a Storekvina in Norway?
+Yes
+Is there a Kvinesdal in Agder?
+Yes
+Is there a Kvinesdal in Norway?
+Yes
+Is there a Agder in Norway?
+Yes
+Is there a Brunvær in Steigen Municipality?
+Yes
+Is there a Brunvær in Nordland?
+Yes
+Is there a Brunvær in Norway?
+Yes
+Is there a Steigen Municipality in Nordland?
+Yes
+Is there a Steigen Municipality in Norway?
+Yes
+Is there a Nordland in Norway?
+Yes
+Is there a Klejtrup in Viborg Municipality?
+Yes
+Is there a Klejtrup in Central Denmark Region?
+Yes
+Is there a Klejtrup in Denmark?
+Yes
+Is there a Viborg Municipality in Central Denmark Region?
+Yes
+Is there a Viborg Municipality in Denmark?
+Yes
+Is there a Central Denmark Region in Denmark?
+Yes
+Is there a Dundalk Upper in County Louth?
+Yes
+Is there a Dundalk Upper in Leinster?
+Yes
+Is there a Dundalk Upper in Ireland?
+Yes
+Is there a County Louth in Leinster?
+Yes
+Is there a County Louth in Ireland?
+Yes
+Is there a Leinster in Ireland?
+Yes
+Is there a Dalaåsen in Sandefjord Municality?
+Yes
+Is there a Dalaåsen in Vestfold og Telemark?
+No
+Is there a Dalaåsen in Norway?
+Yes
+Is there a Sandefjord Municality in Vestfold og Telemark?
+Yes
+Is there a Sandefjord Municality in Norway?
+Yes
+Is there a Vestfold og Telemark in Norway?
+Yes
+Is there a Rossinver in County Sligo?
+Yes
+Is there a Rossinver in Connacht?
+Yes
+Is there a Rossinver in Ireland?
+Yes
+Is there a County Sligo in Connacht?
+Yes
+Is there a County Sligo in Ireland?
+Yes
+Is there a Connacht in Ireland?
+Yes
+Is there a Hüslers (AI-1755) in Schlatt-Haslen?
+Yes
+Is there a Hüslers (AI-1755) in Appenzell Innerrhoden?
+Yes
+Is there a Hüslers (AI-1755) in Switzerland?
+Yes
+Is there a Schlatt-Haslen in Appenzell Innerrhoden?
+Yes
+Is there a Schlatt-Haslen in Switzerland?
+Yes
+Is there a Appenzell Innerrhoden in Switzerland?
+Yes
+Is there a Limestone County School District in Limestone County?
+Yes
+Is there a Limestone County School District in Alabama?
+Yes
+Is there a Limestone County School District in United States of America?
+Yes
+Is there a Limestone County in Alabama?
+Yes
+Is there a Limestone County in United States of America?
+Yes
+Is there a Alabama in United States of America?
+Yes
+Is there a Kelsey Township in St. Louis County?
+No
+Is there a Kelsey Township in Minnesota?
+No
+Is there a Kelsey Township in United States of America?
+Yes
+Is there a St. Louis County in Minnesota?
+Yes
+Is there a St. Louis County in United States of America?
+Yes
+Is there a Minnesota in United States of America?
+Yes
+Is there a Stenstad in Nome?
+Yes
+Is there a Stenstad in Vestfold og Telemark?
+Yes
+Is there a Stenstad in Norway?
+Yes
+Is there a Nome in Vestfold og Telemark?
+Yes
+Is there a Nome in Norway?
+Yes
+Is there a Vestfold og Telemark in Norway?
+Yes
+Is there a Laugardalur in Reykjavík?
+Yes
+Is there a Laugardalur in Capital Region?
+No
+Is there a Laugardalur in Iceland?
+Yes
+Is there a Reykjavík in Capital Region?
+Yes
+Is there a Reykjavík in Iceland?
+Yes
+Is there a Capital Region in Iceland?
+No
+Is there a Richmond in Jefferson County?
+Yes
+Is there a Richmond in Ohio?
+Yes
+Is there a Richmond in United States of America?
+Yes
+Is there a Jefferson County in Ohio?
+Yes
+Is there a Jefferson County in United States of America?
+Yes
+Is there a Ohio in United States of America?
+Yes
+Is there a Faaborg in Faaborg-Midtfyn Municipality?
+Yes
+Is there a Faaborg in Southern Denmark?
+Yes
+Is there a Faaborg in Denmark?
+Yes
+Is there a Faaborg-Midtfyn Municipality in Southern Denmark?
+Yes
+Is there a Faaborg-Midtfyn Municipality in Denmark?
+Yes
+Is there a Southern Denmark in Denmark?
+Yes
+Is there a Rodenbourg in Junglinster?
+Yes
+Is there a Rodenbourg in Canton of Grevenmacher?
+Yes
+Is there a Rodenbourg in Luxembourg?
+Yes
+Is there a Junglinster in Canton of Grevenmacher?
+Yes
+Is there a Junglinster in Luxembourg?
+Yes
+Is there a Canton of Grevenmacher in Luxembourg?
+Yes
+Is there a Schwiedelbrouch in Rambrouch?
+Yes
+Is there a Schwiedelbrouch in Canton of Redange?
+No
+Is there a Schwiedelbrouch in Luxembourg?
+No
+Is there a Rambrouch in Canton of Redange?
+Yes
+Is there a Rambrouch in Luxembourg?
+Yes
+Is there a Canton of Redange in Luxembourg?
+Yes
+Is there a Bolungarvík in Bolungarvíkurkaupstaður?
+Yes
+Is there a Bolungarvík in Westfjords?
+Yes
+Is there a Bolungarvík in Iceland?
+Yes
+Is there a Bolungarvíkurkaupstaður in Westfjords?
+Yes
+Is there a Bolungarvíkurkaupstaður in Iceland?
+Yes
+Is there a Westfjords in Iceland?
+Yes
+Is there a Háaleiti og Bústaðir in Reykjavík?
+No
+Is there a Háaleiti og Bústaðir in Capital Region?
+Yes
+Is there a Háaleiti og Bústaðir in Iceland?
+Yes
+Is there a Reykjavík in Capital Region?
+Yes
+Is there a Reykjavík in Iceland?
+Yes
+Is there a Capital Region in Iceland?
+No
+Is there a Vienna, Hunters Hill in New South Wales?
+Yes
+Is there a Vienna, Hunters Hill in Australia?
+Yes
+Is there a New South Wales in Australia?
+Yes
+Is there a Flåbekkåsen in Namsos Municipality?
+Yes
+Is there a Flåbekkåsen in Trøndelag?
+Yes
+Is there a Flåbekkåsen in Norway?
+Yes
+Is there a Namsos Municipality in Trøndelag?
+Yes
+Is there a Namsos Municipality in Norway?
+Yes
+Is there a Trøndelag in Norway?
+Yes
+Is there a Vester Åby in Faaborg-Midtfyn Municipality?
+Yes
+Is there a Vester Åby in Southern Denmark?
+Yes
+Is there a Vester Åby in Denmark?
+Yes
+Is there a Faaborg-Midtfyn Municipality in Southern Denmark?
+Yes
+Is there a Faaborg-Midtfyn Municipality in Denmark?
+Yes
+Is there a Southern Denmark in Denmark?
+Yes
+Is there a Kinawley in County Cavan?
+Yes
+Is there a Kinawley in Ulster?
+Yes
+Is there a Kinawley in Ireland?
+Yes
+Is there a County Cavan in Ulster?
+Yes
+Is there a County Cavan in Ireland?
+Yes
+Is there a Ulster in Ireland?
+Yes
+Is there a Kloster St. Ottilia in Oberegg?
+Yes
+Is there a Kloster St. Ottilia in Appenzell Innerrhoden?
+No
+Is there a Kloster St. Ottilia in Switzerland?
+No
+Is there a Oberegg in Appenzell Innerrhoden?
+Yes
+Is there a Oberegg in Switzerland?
+Yes
+Is there a Appenzell Innerrhoden in Switzerland?
+Yes
+Is there a Hou Parish in Aalborg Municipality?
+No
+Is there a Hou Parish in North Denmark Region?
+No
+Is there a Hou Parish in Denmark?
+No
+Is there a Aalborg Municipality in North Denmark Region?
+Yes
+Is there a Aalborg Municipality in Denmark?
+Yes
+Is there a North Denmark Region in Denmark?
+Yes
+Is there a Itzig in Hesperange?
+Yes
+Is there a Itzig in Canton of Luxembourg?
+No
+Is there a Itzig in Luxembourg?
+No
+Is there a Hesperange in Canton of Luxembourg?
+Yes
+Is there a Hesperange in Luxembourg?
+Yes
+Is there a Canton of Luxembourg in Luxembourg?
+No
+Is there a Skalmen in Smøla?
+Yes
+Is there a Skalmen in Møre og Romsdal?
+No
+Is there a Skalmen in Norway?
+No
+Is there a Smøla in Møre og Romsdal?
+Yes
+Is there a Smøla in Norway?
+Yes
+Is there a Møre og Romsdal in Norway?
+Yes
+Is there a Tingaringy in Croajingolong?
+No
+Is there a Tingaringy in Victoria?
+No
+Is there a Tingaringy in Australia?
+No
+Is there a Croajingolong in Victoria?
+Yes
+Is there a Croajingolong in Australia?
+No
+Is there a Victoria in Australia?
+Yes
+Is there a Boufferdanger Muer in Sandweiler?
+No
+Is there a Boufferdanger Muer in Canton of Luxembourg?
+No
+Is there a Boufferdanger Muer in Luxembourg?
+No
+Is there a Sandweiler in Canton of Luxembourg?
+Yes
+Is there a Sandweiler in Luxembourg?
+Yes
+Is there a Canton of Luxembourg in Luxembourg?
+No
+Is there a Fister in Hjelmeland?
+Yes
+Is there a Fister in Rogaland?
+Yes
+Is there a Fister in Norway?
+No
+Is there a Hjelmeland in Rogaland?
+Yes
+Is there a Hjelmeland in Norway?
+Yes
+Is there a Rogaland in Norway?
+Yes

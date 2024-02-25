@@ -1,0 +1,1176 @@
+Does Garnich have a Garnich?
+No
+Is there a Garnich in Garnich?
+No
+Does Canton of Capellen have a Garnich?
+Yes
+Is there a Garnich in Canton of Capellen?
+Yes
+Does Luxembourg have a Garnich?
+Yes
+Is there a Garnich in Luxembourg?
+Yes
+Does Canton of Capellen have a Garnich?
+Yes
+Is there a Garnich in Canton of Capellen?
+Yes
+Does Luxembourg have a Garnich?
+Yes
+Is there a Garnich in Luxembourg?
+Yes
+Does Luxembourg have a Canton of Capellen?
+Yes
+Is there a Canton of Capellen in Luxembourg?
+Yes
+Does Doha have a Lusail?
+Yes
+Is there a Lusail in Doha?
+Yes
+Does Ad Dawhah have a Lusail?
+Yes
+Is there a Lusail in Ad Dawhah?
+Yes
+Does Qatar have a Lusail?
+Yes
+Is there a Lusail in Qatar?
+Yes
+Does Ad Dawhah have a Doha?
+Yes
+Is there a Doha in Ad Dawhah?
+Yes
+Does Qatar have a Doha?
+Yes
+Is there a Doha in Qatar?
+Yes
+Does Qatar have a Ad Dawhah?
+Yes
+Is there a Ad Dawhah in Qatar?
+Yes
+Does County Donegal have a Ballintra (Ballyshannon)?
+Yes
+Is there a Ballintra (Ballyshannon) in County Donegal?
+Yes
+Does Ulster have a Ballintra (Ballyshannon)?
+Yes
+Is there a Ballintra (Ballyshannon) in Ulster?
+Yes
+Does Ireland have a Ballintra (Ballyshannon)?
+Yes
+Is there a Ballintra (Ballyshannon) in Ireland?
+Yes
+Does Ulster have a County Donegal?
+No
+Is there a County Donegal in Ulster?
+No
+Does Ireland have a County Donegal?
+Yes
+Is there a County Donegal in Ireland?
+Yes
+Does Ireland have a Ulster?
+Yes
+Is there a Ulster in Ireland?
+Yes
+Does Kerteminde Municipality have a Munkebo Parish?
+Yes
+Is there a Munkebo Parish in Kerteminde Municipality?
+Yes
+Does Southern Denmark have a Munkebo Parish?
+Yes
+Is there a Munkebo Parish in Southern Denmark?
+Yes
+Does Denmark have a Munkebo Parish?
+Yes
+Is there a Munkebo Parish in Denmark?
+Yes
+Does Southern Denmark have a Kerteminde Municipality?
+No
+Is there a Kerteminde Municipality in Southern Denmark?
+No
+Does Denmark have a Kerteminde Municipality?
+Yes
+Is there a Kerteminde Municipality in Denmark?
+Yes
+Does Denmark have a Southern Denmark?
+Yes
+Is there a Southern Denmark in Denmark?
+Yes
+Does Sørfold have a Rago National Park?
+No
+Is there a Rago National Park in Sørfold?
+No
+Does Nordland have a Rago National Park?
+No
+Is there a Rago National Park in Nordland?
+No
+Does Norway have a Rago National Park?
+No
+Is there a Rago National Park in Norway?
+No
+Does Nordland have a Sørfold?
+Yes
+Is there a Sørfold in Nordland?
+Yes
+Does Norway have a Sørfold?
+Yes
+Is there a Sørfold in Norway?
+Yes
+Does Norway have a Nordland?
+Yes
+Is there a Nordland in Norway?
+Yes
+Does Queenstown, Singapore have a Haw Par Villa?
+No
+Is there a Haw Par Villa in Queenstown, Singapore?
+No
+Does Central Region have a Haw Par Villa?
+No
+Is there a Haw Par Villa in Central Region?
+No
+Does Singapore have a Haw Par Villa?
+Yes
+Is there a Haw Par Villa in Singapore?
+Yes
+Does Central Region have a Queenstown, Singapore?
+No
+Is there a Queenstown, Singapore in Central Region?
+No
+Does Singapore have a Queenstown, Singapore?
+Yes
+Is there a Queenstown, Singapore in Singapore?
+Yes
+Does Singapore have a Central Region?
+Yes
+Is there a Central Region in Singapore?
+Yes
+Does Gunnedah Shire have a Yarrari?
+Yes
+Is there a Yarrari in Gunnedah Shire?
+Yes
+Does New South Wales have a Yarrari?
+No
+Is there a Yarrari in New South Wales?
+No
+Does Australia have a Yarrari?
+No
+Is there a Yarrari in Australia?
+No
+Does New South Wales have a Gunnedah Shire?
+Yes
+Is there a Gunnedah Shire in New South Wales?
+Yes
+Does Australia have a Gunnedah Shire?
+Yes
+Is there a Gunnedah Shire in Australia?
+Yes
+Does Australia have a New South Wales?
+Yes
+Is there a New South Wales in Australia?
+Yes
+Does Dalvíkurbyggð have a Dalvík?
+Yes
+Is there a Dalvík in Dalvíkurbyggð?
+Yes
+Does Northeastern Region have a Dalvík?
+No
+Is there a Dalvík in Northeastern Region?
+No
+Does Iceland have a Dalvík?
+Yes
+Is there a Dalvík in Iceland?
+Yes
+Does Northeastern Region have a Dalvíkurbyggð?
+No
+Is there a Dalvíkurbyggð in Northeastern Region?
+No
+Does Iceland have a Dalvíkurbyggð?
+Yes
+Is there a Dalvíkurbyggð in Iceland?
+Yes
+Does Iceland have a Northeastern Region?
+No
+Is there a Northeastern Region in Iceland?
+No
+Does Saratoga County have a Northumberland?
+No
+Is there a Northumberland in Saratoga County?
+No
+Does New York have a Northumberland?
+No
+Is there a Northumberland in New York?
+No
+Does United States of America have a Northumberland?
+No
+Is there a Northumberland in United States of America?
+No
+Does New York have a Saratoga County?
+Yes
+Is there a Saratoga County in New York?
+Yes
+Does United States of America have a Saratoga County?
+Yes
+Is there a Saratoga County in United States of America?
+Yes
+Does United States of America have a New York?
+Yes
+Is there a New York in United States of America?
+Yes
+Does New South Wales have a Vacy?
+Yes
+Is there a Vacy in New South Wales?
+Yes
+Does Australia have a Vacy?
+No
+Is there a Vacy in Australia?
+No
+Does Australia have a New South Wales?
+Yes
+Is there a New South Wales in Australia?
+Yes
+Does Norddjurs Municipality have a Voldby Parish?
+Yes
+Is there a Voldby Parish in Norddjurs Municipality?
+Yes
+Does Central Denmark Region have a Voldby Parish?
+No
+Is there a Voldby Parish in Central Denmark Region?
+No
+Does Denmark have a Voldby Parish?
+Yes
+Is there a Voldby Parish in Denmark?
+Yes
+Does Central Denmark Region have a Norddjurs Municipality?
+Yes
+Is there a Norddjurs Municipality in Central Denmark Region?
+Yes
+Does Denmark have a Norddjurs Municipality?
+Yes
+Is there a Norddjurs Municipality in Denmark?
+Yes
+Does Denmark have a Central Denmark Region?
+Yes
+Is there a Central Denmark Region in Denmark?
+Yes
+Does County Mayo have a Castlebar?
+Yes
+Is there a Castlebar in County Mayo?
+Yes
+Does Connacht have a Castlebar?
+Yes
+Is there a Castlebar in Connacht?
+Yes
+Does Ireland have a Castlebar?
+Yes
+Is there a Castlebar in Ireland?
+Yes
+Does Connacht have a County Mayo?
+Yes
+Is there a County Mayo in Connacht?
+Yes
+Does Ireland have a County Mayo?
+Yes
+Is there a County Mayo in Ireland?
+Yes
+Does Ireland have a Connacht?
+Yes
+Is there a Connacht in Ireland?
+Yes
+Does Faaborg-Midtfyn Municipality have a Kværndrup Parish?
+Yes
+Is there a Kværndrup Parish in Faaborg-Midtfyn Municipality?
+Yes
+Does Southern Denmark have a Kværndrup Parish?
+Yes
+Is there a Kværndrup Parish in Southern Denmark?
+Yes
+Does Denmark have a Kværndrup Parish?
+Yes
+Is there a Kværndrup Parish in Denmark?
+Yes
+Does Southern Denmark have a Faaborg-Midtfyn Municipality?
+Yes
+Is there a Faaborg-Midtfyn Municipality in Southern Denmark?
+Yes
+Does Denmark have a Faaborg-Midtfyn Municipality?
+Yes
+Is there a Faaborg-Midtfyn Municipality in Denmark?
+Yes
+Does Denmark have a Southern Denmark?
+Yes
+Is there a Southern Denmark in Denmark?
+Yes
+Does Hay Shire have a Bluff?
+No
+Is there a Bluff in Hay Shire?
+No
+Does New South Wales have a Bluff?
+Yes
+Is there a Bluff in New South Wales?
+Yes
+Does Australia have a Bluff?
+Yes
+Is there a Bluff in Australia?
+Yes
+Does New South Wales have a Hay Shire?
+Yes
+Is there a Hay Shire in New South Wales?
+Yes
+Does Australia have a Hay Shire?
+No
+Is there a Hay Shire in Australia?
+No
+Does Australia have a New South Wales?
+Yes
+Is there a New South Wales in Australia?
+Yes
+Does Grane have a Byrkije?
+Yes
+Is there a Byrkije in Grane?
+Yes
+Does Nordland have a Byrkije?
+Yes
+Is there a Byrkije in Nordland?
+Yes
+Does Norway have a Byrkije?
+No
+Is there a Byrkije in Norway?
+No
+Does Nordland have a Grane?
+Yes
+Is there a Grane in Nordland?
+Yes
+Does Norway have a Grane?
+Yes
+Is there a Grane in Norway?
+Yes
+Does Norway have a Nordland?
+Yes
+Is there a Nordland in Norway?
+Yes
+Does Schlatt-Haslen have a Haslen?
+Yes
+Is there a Haslen in Schlatt-Haslen?
+Yes
+Does Appenzell Innerrhoden have a Haslen?
+No
+Is there a Haslen in Appenzell Innerrhoden?
+No
+Does Switzerland have a Haslen?
+Yes
+Is there a Haslen in Switzerland?
+Yes
+Does Appenzell Innerrhoden have a Schlatt-Haslen?
+Yes
+Is there a Schlatt-Haslen in Appenzell Innerrhoden?
+Yes
+Does Switzerland have a Schlatt-Haslen?
+Yes
+Is there a Schlatt-Haslen in Switzerland?
+Yes
+Does Switzerland have a Appenzell Innerrhoden?
+Yes
+Is there a Appenzell Innerrhoden in Switzerland?
+Yes
+Does Bukit Batok have a Gombak?
+No
+Is there a Gombak in Bukit Batok?
+No
+Does West Region have a Gombak?
+No
+Is there a Gombak in West Region?
+No
+Does Singapore have a Gombak?
+Yes
+Is there a Gombak in Singapore?
+Yes
+Does West Region have a Bukit Batok?
+No
+Is there a Bukit Batok in West Region?
+No
+Does Singapore have a Bukit Batok?
+Yes
+Is there a Bukit Batok in Singapore?
+Yes
+Does Singapore have a West Region?
+No
+Is there a West Region in Singapore?
+No
+Does Røyrvik have a Guelehtstjahkenvaellie?
+No
+Is there a Guelehtstjahkenvaellie in Røyrvik?
+No
+Does Trøndelag have a Guelehtstjahkenvaellie?
+No
+Is there a Guelehtstjahkenvaellie in Trøndelag?
+No
+Does Norway have a Guelehtstjahkenvaellie?
+No
+Is there a Guelehtstjahkenvaellie in Norway?
+No
+Does Trøndelag have a Røyrvik?
+Yes
+Is there a Røyrvik in Trøndelag?
+Yes
+Does Norway have a Røyrvik?
+Yes
+Is there a Røyrvik in Norway?
+Yes
+Does Norway have a Trøndelag?
+Yes
+Is there a Trøndelag in Norway?
+Yes
+Does Bourke Shire have a Bourke?
+Yes
+Is there a Bourke in Bourke Shire?
+Yes
+Does New South Wales have a Bourke?
+Yes
+Is there a Bourke in New South Wales?
+Yes
+Does Australia have a Bourke?
+Yes
+Is there a Bourke in Australia?
+Yes
+Does New South Wales have a Bourke Shire?
+Yes
+Is there a Bourke Shire in New South Wales?
+Yes
+Does Australia have a Bourke Shire?
+Yes
+Is there a Bourke Shire in Australia?
+Yes
+Does Australia have a New South Wales?
+Yes
+Is there a New South Wales in Australia?
+Yes
+Does Kingman County have a Rochester Township?
+No
+Is there a Rochester Township in Kingman County?
+No
+Does Kansas have a Rochester Township?
+No
+Is there a Rochester Township in Kansas?
+No
+Does United States of America have a Rochester Township?
+Yes
+Is there a Rochester Township in United States of America?
+Yes
+Does Kansas have a Kingman County?
+Yes
+Is there a Kingman County in Kansas?
+Yes
+Does United States of America have a Kingman County?
+No
+Is there a Kingman County in United States of America?
+Yes
+Does United States of America have a Kansas?
+Yes
+Is there a Kansas in United States of America?
+Yes
+Does County Mayo have a Bellavary?
+Yes
+Is there a Bellavary in County Mayo?
+Yes
+Does Connacht have a Bellavary?
+No
+Is there a Bellavary in Connacht?
+No
+Does Ireland have a Bellavary?
+Yes
+Is there a Bellavary in Ireland?
+Yes
+Does Connacht have a County Mayo?
+Yes
+Is there a County Mayo in Connacht?
+Yes
+Does Ireland have a County Mayo?
+Yes
+Is there a County Mayo in Ireland?
+Yes
+Does Ireland have a Connacht?
+Yes
+Is there a Connacht in Ireland?
+Yes
+Does Allegheny County have a Churchill?
+Yes
+Is there a Churchill in Allegheny County?
+Yes
+Does Pennsylvania have a Churchill?
+Yes
+Is there a Churchill in Pennsylvania?
+Yes
+Does United States of America have a Churchill?
+No
+Is there a Churchill in United States of America?
+No
+Does Pennsylvania have a Allegheny County?
+Yes
+Is there a Allegheny County in Pennsylvania?
+Yes
+Does United States of America have a Allegheny County?
+Yes
+Is there a Allegheny County in United States of America?
+Yes
+Does United States of America have a Pennsylvania?
+Yes
+Is there a Pennsylvania in United States of America?
+Yes
+Does Kvinesdal have a Storekvina?
+Yes
+Is there a Storekvina in Kvinesdal?
+Yes
+Does Agder have a Storekvina?
+Yes
+Is there a Storekvina in Agder?
+Yes
+Does Norway have a Storekvina?
+Yes
+Is there a Storekvina in Norway?
+Yes
+Does Agder have a Kvinesdal?
+Yes
+Is there a Kvinesdal in Agder?
+Yes
+Does Norway have a Kvinesdal?
+Yes
+Is there a Kvinesdal in Norway?
+Yes
+Does Norway have a Agder?
+Yes
+Is there a Agder in Norway?
+Yes
+Does Steigen Municipality have a Brunvær?
+Yes
+Is there a Brunvær in Steigen Municipality?
+Yes
+Does Nordland have a Brunvær?
+Yes
+Is there a Brunvær in Nordland?
+Yes
+Does Norway have a Brunvær?
+Yes
+Is there a Brunvær in Norway?
+Yes
+Does Nordland have a Steigen Municipality?
+Yes
+Is there a Steigen Municipality in Nordland?
+Yes
+Does Norway have a Steigen Municipality?
+Yes
+Is there a Steigen Municipality in Norway?
+Yes
+Does Norway have a Nordland?
+Yes
+Is there a Nordland in Norway?
+Yes
+Does Viborg Municipality have a Klejtrup?
+Yes
+Is there a Klejtrup in Viborg Municipality?
+Yes
+Does Central Denmark Region have a Klejtrup?
+Yes
+Is there a Klejtrup in Central Denmark Region?
+Yes
+Does Denmark have a Klejtrup?
+Yes
+Is there a Klejtrup in Denmark?
+Yes
+Does Central Denmark Region have a Viborg Municipality?
+Yes
+Is there a Viborg Municipality in Central Denmark Region?
+Yes
+Does Denmark have a Viborg Municipality?
+Yes
+Is there a Viborg Municipality in Denmark?
+Yes
+Does Denmark have a Central Denmark Region?
+Yes
+Is there a Central Denmark Region in Denmark?
+Yes
+Does County Louth have a Dundalk Upper?
+Yes
+Is there a Dundalk Upper in County Louth?
+Yes
+Does Leinster have a Dundalk Upper?
+No
+Is there a Dundalk Upper in Leinster?
+No
+Does Ireland have a Dundalk Upper?
+No
+Is there a Dundalk Upper in Ireland?
+No
+Does Leinster have a County Louth?
+No
+Is there a County Louth in Leinster?
+No
+Does Ireland have a County Louth?
+Yes
+Is there a County Louth in Ireland?
+Yes
+Does Ireland have a Leinster?
+Yes
+Is there a Leinster in Ireland?
+Yes
+Does Sandefjord Municality have a Dalaåsen?
+Yes
+Is there a Dalaåsen in Sandefjord Municality?
+Yes
+Does Vestfold og Telemark have a Dalaåsen?
+No
+Is there a Dalaåsen in Vestfold og Telemark?
+No
+Does Norway have a Dalaåsen?
+No
+Is there a Dalaåsen in Norway?
+No
+Does Vestfold og Telemark have a Sandefjord Municality?
+Yes
+Is there a Sandefjord Municality in Vestfold og Telemark?
+Yes
+Does Norway have a Sandefjord Municality?
+Yes
+Is there a Sandefjord Municality in Norway?
+Yes
+Does Norway have a Vestfold og Telemark?
+Yes
+Is there a Vestfold og Telemark in Norway?
+Yes
+Does County Sligo have a Rossinver?
+Yes
+Is there a Rossinver in County Sligo?
+Yes
+Does Connacht have a Rossinver?
+Yes
+Is there a Rossinver in Connacht?
+Yes
+Does Ireland have a Rossinver?
+Yes
+Is there a Rossinver in Ireland?
+Yes
+Does Connacht have a County Sligo?
+Yes
+Is there a County Sligo in Connacht?
+Yes
+Does Ireland have a County Sligo?
+Yes
+Is there a County Sligo in Ireland?
+Yes
+Does Ireland have a Connacht?
+Yes
+Is there a Connacht in Ireland?
+Yes
+Does Schlatt-Haslen have a Hüslers (AI-1755)?
+Yes
+Is there a Hüslers (AI-1755) in Schlatt-Haslen?
+Yes
+Does Appenzell Innerrhoden have a Hüslers (AI-1755)?
+Yes
+Is there a Hüslers (AI-1755) in Appenzell Innerrhoden?
+Yes
+Does Switzerland have a Hüslers (AI-1755)?
+No
+Is there a Hüslers (AI-1755) in Switzerland?
+No
+Does Appenzell Innerrhoden have a Schlatt-Haslen?
+Yes
+Is there a Schlatt-Haslen in Appenzell Innerrhoden?
+Yes
+Does Switzerland have a Schlatt-Haslen?
+Yes
+Is there a Schlatt-Haslen in Switzerland?
+Yes
+Does Switzerland have a Appenzell Innerrhoden?
+Yes
+Is there a Appenzell Innerrhoden in Switzerland?
+Yes
+Does Limestone County have a Limestone County School District?
+Yes
+Is there a Limestone County School District in Limestone County?
+Yes
+Does Alabama have a Limestone County School District?
+Yes
+Is there a Limestone County School District in Alabama?
+Yes
+Does United States of America have a Limestone County School District?
+Yes
+Is there a Limestone County School District in United States of America?
+Yes
+Does Alabama have a Limestone County?
+Yes
+Is there a Limestone County in Alabama?
+Yes
+Does United States of America have a Limestone County?
+Yes
+Is there a Limestone County in United States of America?
+Yes
+Does United States of America have a Alabama?
+Yes
+Is there a Alabama in United States of America?
+Yes
+Does St. Louis County have a Kelsey Township?
+No
+Is there a Kelsey Township in St. Louis County?
+No
+Does Minnesota have a Kelsey Township?
+No
+Is there a Kelsey Township in Minnesota?
+No
+Does United States of America have a Kelsey Township?
+No
+Is there a Kelsey Township in United States of America?
+No
+Does Minnesota have a St. Louis County?
+Yes
+Is there a St. Louis County in Minnesota?
+Yes
+Does United States of America have a St. Louis County?
+Yes
+Is there a St. Louis County in United States of America?
+Yes
+Does United States of America have a Minnesota?
+Yes
+Is there a Minnesota in United States of America?
+Yes
+Does Nome have a Stenstad?
+Yes
+Is there a Stenstad in Nome?
+Yes
+Does Vestfold og Telemark have a Stenstad?
+No
+Is there a Stenstad in Vestfold og Telemark?
+No
+Does Norway have a Stenstad?
+No
+Is there a Stenstad in Norway?
+No
+Does Vestfold og Telemark have a Nome?
+Yes
+Is there a Nome in Vestfold og Telemark?
+Yes
+Does Norway have a Nome?
+No
+Is there a Nome in Norway?
+No
+Does Norway have a Vestfold og Telemark?
+Yes
+Is there a Vestfold og Telemark in Norway?
+Yes
+Does Reykjavík have a Laugardalur?
+Yes
+Is there a Laugardalur in Reykjavík?
+Yes
+Does Capital Region have a Laugardalur?
+Yes
+Is there a Laugardalur in Capital Region?
+Yes
+Does Iceland have a Laugardalur?
+Yes
+Is there a Laugardalur in Iceland?
+Yes
+Does Capital Region have a Reykjavík?
+No
+Is there a Reykjavík in Capital Region?
+No
+Does Iceland have a Reykjavík?
+Yes
+Is there a Reykjavík in Iceland?
+Yes
+Does Iceland have a Capital Region?
+No
+Is there a Capital Region in Iceland?
+No
+Does Jefferson County have a Richmond?
+Yes
+Is there a Richmond in Jefferson County?
+Yes
+Does Ohio have a Richmond?
+Yes
+Is there a Richmond in Ohio?
+Yes
+Does United States of America have a Richmond?
+Yes
+Is there a Richmond in United States of America?
+Yes
+Does Ohio have a Jefferson County?
+Yes
+Is there a Jefferson County in Ohio?
+Yes
+Does United States of America have a Jefferson County?
+Yes
+Is there a Jefferson County in United States of America?
+Yes
+Does United States of America have a Ohio?
+Yes
+Is there a Ohio in United States of America?
+Yes
+Does Faaborg-Midtfyn Municipality have a Faaborg?
+Yes
+Is there a Faaborg in Faaborg-Midtfyn Municipality?
+Yes
+Does Southern Denmark have a Faaborg?
+Yes
+Is there a Faaborg in Southern Denmark?
+Yes
+Does Denmark have a Faaborg?
+Yes
+Is there a Faaborg in Denmark?
+Yes
+Does Southern Denmark have a Faaborg-Midtfyn Municipality?
+Yes
+Is there a Faaborg-Midtfyn Municipality in Southern Denmark?
+Yes
+Does Denmark have a Faaborg-Midtfyn Municipality?
+Yes
+Is there a Faaborg-Midtfyn Municipality in Denmark?
+Yes
+Does Denmark have a Southern Denmark?
+Yes
+Is there a Southern Denmark in Denmark?
+Yes
+Does Junglinster have a Rodenbourg?
+Yes
+Is there a Rodenbourg in Junglinster?
+Yes
+Does Canton of Grevenmacher have a Rodenbourg?
+Yes
+Is there a Rodenbourg in Canton of Grevenmacher?
+Yes
+Does Luxembourg have a Rodenbourg?
+Yes
+Is there a Rodenbourg in Luxembourg?
+Yes
+Does Canton of Grevenmacher have a Junglinster?
+Yes
+Is there a Junglinster in Canton of Grevenmacher?
+Yes
+Does Luxembourg have a Junglinster?
+Yes
+Is there a Junglinster in Luxembourg?
+Yes
+Does Luxembourg have a Canton of Grevenmacher?
+Yes
+Is there a Canton of Grevenmacher in Luxembourg?
+Yes
+Does Rambrouch have a Schwiedelbrouch?
+Yes
+Is there a Schwiedelbrouch in Rambrouch?
+Yes
+Does Canton of Redange have a Schwiedelbrouch?
+Yes
+Is there a Schwiedelbrouch in Canton of Redange?
+Yes
+Does Luxembourg have a Schwiedelbrouch?
+No
+Is there a Schwiedelbrouch in Luxembourg?
+No
+Does Canton of Redange have a Rambrouch?
+Yes
+Is there a Rambrouch in Canton of Redange?
+Yes
+Does Luxembourg have a Rambrouch?
+Yes
+Is there a Rambrouch in Luxembourg?
+Yes
+Does Luxembourg have a Canton of Redange?
+Yes
+Is there a Canton of Redange in Luxembourg?
+Yes
+Does Bolungarvíkurkaupstaður have a Bolungarvík?
+Yes
+Is there a Bolungarvík in Bolungarvíkurkaupstaður?
+Yes
+Does Westfjords have a Bolungarvík?
+Yes
+Is there a Bolungarvík in Westfjords?
+Yes
+Does Iceland have a Bolungarvík?
+Yes
+Is there a Bolungarvík in Iceland?
+Yes
+Does Westfjords have a Bolungarvíkurkaupstaður?
+Yes
+Is there a Bolungarvíkurkaupstaður in Westfjords?
+Yes
+Does Iceland have a Bolungarvíkurkaupstaður?
+Yes
+Is there a Bolungarvíkurkaupstaður in Iceland?
+Yes
+Does Iceland have a Westfjords?
+Yes
+Is there a Westfjords in Iceland?
+Yes
+Does Reykjavík have a Háaleiti og Bústaðir?
+Yes
+Is there a Háaleiti og Bústaðir in Reykjavík?
+Yes
+Does Capital Region have a Háaleiti og Bústaðir?
+No
+Is there a Háaleiti og Bústaðir in Capital Region?
+No
+Does Iceland have a Háaleiti og Bústaðir?
+No
+Is there a Háaleiti og Bústaðir in Iceland?
+No
+Does Capital Region have a Reykjavík?
+No
+Is there a Reykjavík in Capital Region?
+No
+Does Iceland have a Reykjavík?
+Yes
+Is there a Reykjavík in Iceland?
+Yes
+Does Iceland have a Capital Region?
+No
+Is there a Capital Region in Iceland?
+No
+Does New South Wales have a Vienna, Hunters Hill?
+Yes
+Is there a Vienna, Hunters Hill in New South Wales?
+Yes
+Does Australia have a Vienna, Hunters Hill?
+No
+Is there a Vienna, Hunters Hill in Australia?
+No
+Does Australia have a New South Wales?
+Yes
+Is there a New South Wales in Australia?
+Yes
+Does Namsos Municipality have a Flåbekkåsen?
+Yes
+Is there a Flåbekkåsen in Namsos Municipality?
+Yes
+Does Trøndelag have a Flåbekkåsen?
+No
+Is there a Flåbekkåsen in Trøndelag?
+No
+Does Norway have a Flåbekkåsen?
+Yes
+Is there a Flåbekkåsen in Norway?
+Yes
+Does Trøndelag have a Namsos Municipality?
+Yes
+Is there a Namsos Municipality in Trøndelag?
+Yes
+Does Norway have a Namsos Municipality?
+Yes
+Is there a Namsos Municipality in Norway?
+Yes
+Does Norway have a Trøndelag?
+Yes
+Is there a Trøndelag in Norway?
+Yes
+Does Faaborg-Midtfyn Municipality have a Vester Åby?
+Yes
+Is there a Vester Åby in Faaborg-Midtfyn Municipality?
+Yes
+Does Southern Denmark have a Vester Åby?
+Yes
+Is there a Vester Åby in Southern Denmark?
+Yes
+Does Denmark have a Vester Åby?
+Yes
+Is there a Vester Åby in Denmark?
+Yes
+Does Southern Denmark have a Faaborg-Midtfyn Municipality?
+Yes
+Is there a Faaborg-Midtfyn Municipality in Southern Denmark?
+Yes
+Does Denmark have a Faaborg-Midtfyn Municipality?
+Yes
+Is there a Faaborg-Midtfyn Municipality in Denmark?
+Yes
+Does Denmark have a Southern Denmark?
+Yes
+Is there a Southern Denmark in Denmark?
+Yes
+Does County Cavan have a Kinawley?
+Yes
+Is there a Kinawley in County Cavan?
+Yes
+Does Ulster have a Kinawley?
+Yes
+Is there a Kinawley in Ulster?
+Yes
+Does Ireland have a Kinawley?
+Yes
+Is there a Kinawley in Ireland?
+Yes
+Does Ulster have a County Cavan?
+No
+Is there a County Cavan in Ulster?
+No
+Does Ireland have a County Cavan?
+Yes
+Is there a County Cavan in Ireland?
+Yes
+Does Ireland have a Ulster?
+Yes
+Is there a Ulster in Ireland?
+Yes
+Does Oberegg have a Kloster St. Ottilia?
+Yes
+Is there a Kloster St. Ottilia in Oberegg?
+Yes
+Does Appenzell Innerrhoden have a Kloster St. Ottilia?
+No
+Is there a Kloster St. Ottilia in Appenzell Innerrhoden?
+No
+Does Switzerland have a Kloster St. Ottilia?
+No
+Is there a Kloster St. Ottilia in Switzerland?
+No
+Does Appenzell Innerrhoden have a Oberegg?
+Yes
+Is there a Oberegg in Appenzell Innerrhoden?
+Yes
+Does Switzerland have a Oberegg?
+Yes
+Is there a Oberegg in Switzerland?
+Yes
+Does Switzerland have a Appenzell Innerrhoden?
+Yes
+Is there a Appenzell Innerrhoden in Switzerland?
+Yes
+Does Aalborg Municipality have a Hou Parish?
+Yes
+Is there a Hou Parish in Aalborg Municipality?
+Yes
+Does North Denmark Region have a Hou Parish?
+No
+Is there a Hou Parish in North Denmark Region?
+No
+Does Denmark have a Hou Parish?
+No
+Is there a Hou Parish in Denmark?
+No
+Does North Denmark Region have a Aalborg Municipality?
+Yes
+Is there a Aalborg Municipality in North Denmark Region?
+Yes
+Does Denmark have a Aalborg Municipality?
+Yes
+Is there a Aalborg Municipality in Denmark?
+Yes
+Does Denmark have a North Denmark Region?
+Yes
+Is there a North Denmark Region in Denmark?
+Yes
+Does Hesperange have a Itzig?
+No
+Is there a Itzig in Hesperange?
+No
+Does Canton of Luxembourg have a Itzig?
+Yes
+Is there a Itzig in Canton of Luxembourg?
+Yes
+Does Luxembourg have a Itzig?
+Yes
+Is there a Itzig in Luxembourg?
+Yes
+Does Canton of Luxembourg have a Hesperange?
+Yes
+Is there a Hesperange in Canton of Luxembourg?
+Yes
+Does Luxembourg have a Hesperange?
+Yes
+Is there a Hesperange in Luxembourg?
+Yes
+Does Luxembourg have a Canton of Luxembourg?
+No
+Is there a Canton of Luxembourg in Luxembourg?
+No
+Does Smøla have a Skalmen?
+Yes
+Is there a Skalmen in Smøla?
+Yes
+Does Møre og Romsdal have a Skalmen?
+Yes
+Is there a Skalmen in Møre og Romsdal?
+Yes
+Does Norway have a Skalmen?
+No
+Is there a Skalmen in Norway?
+No
+Does Møre og Romsdal have a Smøla?
+Yes
+Is there a Smøla in Møre og Romsdal?
+Yes
+Does Norway have a Smøla?
+Yes
+Is there a Smøla in Norway?
+Yes
+Does Norway have a Møre og Romsdal?
+Yes
+Is there a Møre og Romsdal in Norway?
+Yes
+Does Croajingolong have a Tingaringy?
+No
+Is there a Tingaringy in Croajingolong?
+No
+Does Victoria have a Tingaringy?
+No
+Is there a Tingaringy in Victoria?
+No
+Does Australia have a Tingaringy?
+No
+Is there a Tingaringy in Australia?
+No
+Does Victoria have a Croajingolong?
+Yes
+Is there a Croajingolong in Victoria?
+Yes
+Does Australia have a Croajingolong?
+Yes
+Is there a Croajingolong in Australia?
+Yes
+Does Australia have a Victoria?
+Yes
+Is there a Victoria in Australia?
+Yes
+Does Sandweiler have a Boufferdanger Muer?
+No
+Is there a Boufferdanger Muer in Sandweiler?
+No
+Does Canton of Luxembourg have a Boufferdanger Muer?
+No
+Is there a Boufferdanger Muer in Canton of Luxembourg?
+No
+Does Luxembourg have a Boufferdanger Muer?
+Yes
+Is there a Boufferdanger Muer in Luxembourg?
+Yes
+Does Canton of Luxembourg have a Sandweiler?
+Yes
+Is there a Sandweiler in Canton of Luxembourg?
+Yes
+Does Luxembourg have a Sandweiler?
+Yes
+Is there a Sandweiler in Luxembourg?
+Yes
+Does Luxembourg have a Canton of Luxembourg?
+No
+Is there a Canton of Luxembourg in Luxembourg?
+No
+Does Hjelmeland have a Fister?
+Yes
+Is there a Fister in Hjelmeland?
+Yes
+Does Rogaland have a Fister?
+No
+Is there a Fister in Rogaland?
+No
+Does Norway have a Fister?
+Yes
+Is there a Fister in Norway?
+Yes
+Does Rogaland have a Hjelmeland?
+Yes
+Is there a Hjelmeland in Rogaland?
+Yes
+Does Norway have a Hjelmeland?
+Yes
+Is there a Hjelmeland in Norway?
+Yes
+Does Norway have a Rogaland?
+Yes
+Is there a Rogaland in Norway?
+Yes
