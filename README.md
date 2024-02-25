@@ -18,19 +18,21 @@ KonTest is an automated testing framework for evaluating the consistency of larg
 * math
 * networkx
 * copy
+* pathlib
+* textwrap
 
 ### LLM Specific Packages
 
-#### Google PALM2
+#### Google Gemini
 
 ```
-import google.generativeai as palm
+import google.generativeai as genai
 ```
 
 Note: Credentials cannot be embedded in code. A service key is required.
 It can be created using GCP by following the linked procedure.
 
-Link: [PALM2 Credentials](https://makersuite.google.com/app/apikey)
+Link: [Gemini Credentials](https://aistudio.google.com/app/apikey)
 
 #### OpenAI GPT3.5
 
