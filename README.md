@@ -1,7 +1,7 @@
 # KonTest
 Replication Package for Knowledge-based Consistency Testing of Large Language Models
 
-![KonTest Overview](overview-approach.jpg)
+![KonTest Overview](overview-approach.png)
 
 KonTest is an automated testing framework for evaluating the consistency of large language models (LLMs). It leverages an external knowledge base to craft queries to a target LLM and identifies both metamorphic and ontological errors in the LLM's output.
 
