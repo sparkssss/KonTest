@@ -82,11 +82,11 @@ This work is licensed under a
 
 ## Citing KonTest
 
-'''
+```
 @inproceedings{rajan2024knowledge,
   title={Knowledge-based Consistency Testing of Large Language Models},
   author={Rajan, Sai Sathiesh and Soremekun, Ezekiel and Chattopadhyay, Sudipta},
   booktitle={Findings of the Association for Computational Linguistics: EMNLP 2024},
   year={2024}
 }
-'''
+```
