@@ -1,5 +1,5 @@
 # KonTest
-Replication Package for Knowledge-based Consistency Testing of Large Language Models
+Replication Package for [Knowledge-based Consistency Testing of Large Language Models](https://arxiv.org/abs/2407.12830)
 
 ![KonTest Overview](overview-approach.png)
 
