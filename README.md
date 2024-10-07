@@ -60,9 +60,13 @@ Link: [LLM Documentation](https://llm.datasette.io/en/stable/other-models.html)
 
 The code consists of 2 sections, Knowledge Base Generation and LLM Query. The knowledge base construction is handled by kgConstruct.py. The LLM query section is split into three parts. The first, nodeSelection.py, selects a set of paths to be used in subsequent steps. The llmGen.py file queries the chosen LLM and stores its responses. errorFinder.py then takes the stored responses and generates the number of errors for each error type.
 
+#### CONFIG.txt
+
+The file contains 4 editable parameter, namely, chosenDomain, chosenLLM, initList, and selNodes. chosenDomain allows the user to specify the domain being explored. chosenLLM allows the user to specify the LLM which they would like to test. initList specifies the initial list of entities in Wikidata to explore. selNodes specifies the random set of paths and nodes chosen by KonTest in the paper. In the absence of a specified list of nodes, KonTest randomly generates a list before appending it to the CONFIG file.
+
 ##### kgConstruct.py
 
-It constructs the knowledge base for the selected list of entities (nodes).
+It constructs the knowledge base for the selected list of entities (nodes) and domain.
 
 ##### nodeSelection.py
 

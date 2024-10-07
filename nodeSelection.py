@@ -11,6 +11,8 @@ configText = 'CONFIG.txt'
 
 fConfig = open(configText, "r")
 
+selNodesBool = False
+
 while True:
     
     line = fConfig.readline()
@@ -65,6 +67,10 @@ while True:
         resWords = newResWords
         
         initList = resWords
+
+    if words.startswith('selNodes'):
+
+        selNodesBool = True
         
 fConfig.close()
 
@@ -133,5 +139,18 @@ for elemNode in selNodes:
         
     nodePath = nodePath[:-1]
     foundNodes.append(nodePath)
-    
+
+#Prints the selected nodes and the associated paths    
 print(foundNodes)
+
+if (selNodesBool==False):
+
+    fConfig = open(configText, "a")
+
+    fConfig.write("\n" + "selNodes = ")
+    fConfig.write(str(foundNodes))
+    fConfig.write("\n\n")
+
+
+        
+
